@@ -14,3 +14,6 @@ This mod changes the fonts to Century Gothic.
   It is recommended to backup the original files first.
 
 
+## Example Screenshot
+
+![Screenshot](/src/resources/screenshot.png?raw=true "Screenshot")
